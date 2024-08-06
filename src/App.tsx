@@ -418,7 +418,7 @@ const App = () => {
               <li className="hover:bg-black border-black hover:text-white hover:rounded-3xl hover:border hover:p-2 p-2 cursor-pointer">
                 Contact Us
               </li>
-              <button className="bg-black text-white rounded-3xl  border p-2 mr-[60px] border-black pl-5 pr-5">
+              <button className="bg-black text-white rounded-3xl  border p-2 mr-[60px] border-black pl-5 pr-5 cursor-pointer">
               Sign Up
             </button>
             </ul>
